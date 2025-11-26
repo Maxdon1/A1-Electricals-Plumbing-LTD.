@@ -2,9 +2,6 @@
 My electrical and plumbing website
 A professional, responsive website for A1 Electricals & Plumbing Solutions Ltd., showcasing my comprehensive electrical, plumbing, and dish installation services across Ghana.
 
-https://img.shields.io/badge/Service-Electrical%2520%2526%2520Plumbing-blue
-https://img.shields.io/badge/Location-Ghana-green
-https://img.shields.io/badge/Design-Responsive-orange
 
 🌟 Live Demo
 View Live Website <!-- Add your live URL here -->
